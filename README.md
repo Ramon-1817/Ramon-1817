@@ -61,7 +61,10 @@ Olá... Sou Ramon Vasconcelos, tenho 39 anos e sou natural do Rio de Janeiro. At
     style="padding-right: 10px;" 
     src="https://github-readme-stats-two-omega-43.vercel.app/api?username=paulopontodev&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400"
   />
-
+  
+<br/>
+<br/>
+  
 <img 
       align="left" 
       alt="GitHub Stats" 
