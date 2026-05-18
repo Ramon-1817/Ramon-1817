@@ -12,14 +12,7 @@ Olá... Sou Ramon Vasconcelos, tenho 39 anos e sou natural do Rio de Janeiro. At
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
-<h3 align="left">Connect with me!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:paulorobertodequeirozjr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/paulopontodev/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/paulopontodev/)
-
-
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">Minhas Skills</h3>
 
 <img 
     align="left" 
@@ -46,24 +39,6 @@ Olá... Sou Ramon Vasconcelos, tenho 39 anos e sou natural do Rio de Janeiro. At
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<img
-    align="left"
-    alt="Github"
-    title="GitHub"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
 <img 
     align="left" 
     alt="Python" 
@@ -73,14 +48,6 @@ Olá... Sou Ramon Vasconcelos, tenho 39 anos e sou natural do Rio de Janeiro. At
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<img
-    align="left"
-    alt="Vercel"
-    title="Vercel"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
-/>
 <br/>
 <br/>
 
