@@ -68,11 +68,12 @@ Olá... Sou Ramon Vasconcelos, tenho 39 anos e sou natural do Rio de Janeiro. At
       height="200" 
       src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=paulopontodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
-
-</p>
-</p>
 </p>
 
+<br/>
+<br/>
+
+<p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ramon-1817/Ramon-1817/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ramon-1817/Ramon-1817/pacman-output/pacman-contribution-graph.svg">
@@ -80,3 +81,4 @@ Olá... Sou Ramon Vasconcelos, tenho 39 anos e sou natural do Rio de Janeiro. At
 </picture>
 
 ###
+</p>
