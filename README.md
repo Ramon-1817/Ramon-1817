@@ -48,6 +48,15 @@ Olá... Sou Ramon Vasconcelos, tenho 39 anos e sou natural do Rio de Janeiro. At
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="kotlin logo" 
+    title="kotlin"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
+/>
+
 <br/>
 <br/>
 
